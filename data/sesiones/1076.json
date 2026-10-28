@@ -1,0 +1,6191 @@
+{
+ "id": 1076,
+ "fecha": "2022-04-28",
+ "numero": "5",
+ "anio_parlamentario": "2022",
+ "tipo": "ORDINARIA",
+ "votaciones": [
+  {
+   "id": 1847,
+   "asunto": "Desp 054/22",
+   "descripcion": "",
+   "id_expediente": 118353,
+   "id_despacho": 20848,
+   "positivos": 55,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1842,
+   "asunto": "Deso  049/22",
+   "descripcion": "",
+   "id_expediente": 120109,
+   "id_despacho": 20849,
+   "positivos": 54,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1843,
+   "asunto": "Desp 050/22",
+   "descripcion": "",
+   "id_expediente": 120547,
+   "id_despacho": 20850,
+   "positivos": 51,
+   "negativos": 4,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1844,
+   "asunto": "",
+   "descripcion": "",
+   "id_expediente": 120563,
+   "id_despacho": 20851,
+   "positivos": 55,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1845,
+   "asunto": "Desp 052/22",
+   "descripcion": "",
+   "id_expediente": 120950,
+   "id_despacho": 20852,
+   "positivos": 54,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1846,
+   "asunto": "Desp 053/22",
+   "descripcion": "",
+   "id_expediente": 120952,
+   "id_despacho": 20854,
+   "positivos": 55,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1851,
+   "asunto": "Desp 055/22",
+   "descripcion": "",
+   "id_expediente": 121092,
+   "id_despacho": 20853,
+   "positivos": 55,
+   "negativos": 0,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1841,
+   "asunto": "Desp 012/22",
+   "descripcion": "",
+   "id_expediente": 121410,
+   "id_despacho": 20829,
+   "positivos": 54,
+   "negativos": 0,
+   "abstenciones": 1,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1840,
+   "asunto": "Votación Nominal 01",
+   "descripcion": "",
+   "id_expediente": 121741,
+   "id_despacho": null,
+   "positivos": 31,
+   "negativos": 19,
+   "abstenciones": 5,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1848,
+   "asunto": "Votación Nominal 02",
+   "descripcion": "",
+   "id_expediente": 122587,
+   "id_despacho": null,
+   "positivos": 47,
+   "negativos": 6,
+   "abstenciones": 2,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "ABSTENCIÓN",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  },
+  {
+   "id": 1849,
+   "asunto": "Exp 2838-J-21",
+   "descripcion": "",
+   "id_expediente": 125656,
+   "id_despacho": null,
+   "positivos": 51,
+   "negativos": 4,
+   "abstenciones": 0,
+   "desc_sesion": "",
+   "votos": [
+    {
+     "id_legislador": 30877,
+     "apellido": "DE MENDIETA",
+     "nombre": "MARÍA DE LAS MERCEDES",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30885,
+     "apellido": "LAPEÑA",
+     "nombre": "LUCIO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30901,
+     "apellido": "O´DEZAILLE",
+     "nombre": "JUAN PABLO",
+     "id_bloque": null,
+     "bloque": "",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30847,
+     "apellido": "CASIELLES",
+     "nombre": "EUGENIO",
+     "id_bloque": 105,
+     "bloque": "Consenso Federal",
+     "voto": "NO VOTÓ",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30827,
+     "apellido": "SOLANO",
+     "nombre": "GABRIEL",
+     "id_bloque": 107,
+     "bloque": "Frente de Izquierda de los Trabajadores / PO",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30718,
+     "apellido": "AMOR",
+     "nombre": "ALEJANDRO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30792,
+     "apellido": "ANDRADE",
+     "nombre": "JAVIER",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30841,
+     "apellido": "BARROETAVEÑA",
+     "nombre": "MATÍAS",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30844,
+     "apellido": "BIELLI",
+     "nombre": "MARÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30846,
+     "apellido": "CAMPORA",
+     "nombre": "LUCÍA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30893,
+     "apellido": "DAER",
+     "nombre": "MAIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30849,
+     "apellido": "FERNÁNDEZ",
+     "nombre": "OFELIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30561,
+     "apellido": "FERREÑO",
+     "nombre": "CLAUDIO AMÉRICO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30896,
+     "apellido": "IAÑEZ",
+     "nombre": "BERENICE",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30892,
+     "apellido": "MODARELLI",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30822,
+     "apellido": "MONTENEGRO",
+     "nombre": "VICTORIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30854,
+     "apellido": "MORRESI",
+     "nombre": "CLAUDIO ALBERTO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30716,
+     "apellido": "NEIRA",
+     "nombre": "CLAUDIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30856,
+     "apellido": "SEGURA RATTAGAN",
+     "nombre": "CECILIA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30857,
+     "apellido": "SOCÍAS",
+     "nombre": "MANUEL SALVADOR",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30799,
+     "apellido": "TIESSO",
+     "nombre": "MARÍA MAGDALENA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30862,
+     "apellido": "VALDÉS",
+     "nombre": "JUAN MANUEL",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30852,
+     "apellido": "VELASCO",
+     "nombre": "LAURA",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30894,
+     "apellido": "VITALI",
+     "nombre": "FRANCO",
+     "id_bloque": 108,
+     "bloque": "Frente de Todos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30899,
+     "apellido": "FLEITAS",
+     "nombre": "REBECA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30897,
+     "apellido": "MARRA",
+     "nombre": "RAMIRO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30898,
+     "apellido": "MONTENEGRO",
+     "nombre": "LUCÍA",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30900,
+     "apellido": "SAIFERT",
+     "nombre": "LEONARDO",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 486,
+     "apellido": "ZAGO",
+     "nombre": "OSCAR",
+     "id_bloque": 114,
+     "bloque": "La Libertad avanza",
+     "voto": "NEGATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30889,
+     "apellido": "BARRETO",
+     "nombre": "JESSICA",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 510,
+     "apellido": "CORTINA",
+     "nombre": "ROY",
+     "id_bloque": 9,
+     "bloque": "Partido Socialista",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30843,
+     "apellido": "BARRY",
+     "nombre": "ALEJANDRINA",
+     "id_bloque": 113,
+     "bloque": "PTS Frente de Izq-Unidad",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30884,
+     "apellido": "GARCÍA MORITÁN",
+     "nombre": "ROBERTO",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30886,
+     "apellido": "KIENAST",
+     "nombre": "MARINA",
+     "id_bloque": 115,
+     "bloque": "Republicanos Unidos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30787,
+     "apellido": "GUOUMAN",
+     "nombre": "MARCELO ALEJANDRO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30888,
+     "apellido": "MOLA",
+     "nombre": "GUSTAVO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30666,
+     "apellido": "OCAMPO",
+     "nombre": "MARTÍN",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30881,
+     "apellido": "PARRY",
+     "nombre": "MARÍA INÉS",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30858,
+     "apellido": "THOURTE",
+     "nombre": "MANUELA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30784,
+     "apellido": "VISCHI",
+     "nombre": "MARÍA PATRICIA",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30861,
+     "apellido": "WECK",
+     "nombre": "DIEGO",
+     "id_bloque": 104,
+     "bloque": "UCR / Evolución",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30680,
+     "apellido": "ARENAZA",
+     "nombre": "JUAN PABLO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30845,
+     "apellido": "BOU PÉREZ",
+     "nombre": "ANA MARÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30802,
+     "apellido": "DE LAS CASAS",
+     "nombre": "MERCEDES",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30848,
+     "apellido": "DEL GAISO",
+     "nombre": "JUAN FACUNDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30776,
+     "apellido": "DEL SOL",
+     "nombre": "DANIEL EDUARDO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30777,
+     "apellido": "ESTEBARENA",
+     "nombre": "CAROLINA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30880,
+     "apellido": "FERRARIO",
+     "nombre": "EMMANUEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30819,
+     "apellido": "FERRERO",
+     "nombre": "MARÍA CECILIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30786,
+     "apellido": "FIDEL",
+     "nombre": "NATALIA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30785,
+     "apellido": "GARCÍA DE GARCÍA VILAS",
+     "nombre": "DIEGO MARIANO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30851,
+     "apellido": "GARRIDO",
+     "nombre": "ESTEBAN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30816,
+     "apellido": "GONZÁLEZ  ESTEVARENA",
+     "nombre": "MARÍA LUISA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30853,
+     "apellido": "LÓPEZ",
+     "nombre": "MATÍAS DAMIÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30813,
+     "apellido": "MÉNDEZ",
+     "nombre": "MARÍA SOL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30810,
+     "apellido": "MICHIELOTTO",
+     "nombre": "PAOLA VANESA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30887,
+     "apellido": "NIETO",
+     "nombre": "DARÍO HUGO",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30808,
+     "apellido": "REYES",
+     "nombre": "HERNÁN",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30855,
+     "apellido": "ROMANO",
+     "nombre": "LUCÍA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    },
+    {
+     "id_legislador": 30809,
+     "apellido": "ROMERO",
+     "nombre": "CLAUDIO ARIEL",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "NO VOTÓ",
+     "presente": "Ausente con aviso"
+    },
+    {
+     "id_legislador": 30859,
+     "apellido": "VILLAFRUELA",
+     "nombre": "GIMENA",
+     "id_bloque": 86,
+     "bloque": "Vamos Juntos",
+     "voto": "AFIRMATIVO",
+     "presente": "Presente"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>¿Cómo votó? · Legislatura porteña</title>
+  <meta name="description" content="Cómo votan los legisladores y legisladoras de la Ciudad de Buenos Aires: historial de votaciones nominales, presentismo y afinidad política.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23f5c400'/><text x='16' y='23' font-size='20' text-anchor='middle' font-family='Arial' font-weight='bold' fill='%23222'>?</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a href="#/" class="brand">¿Cómo votó? <span>Legislatura porteña</span></a>
+      <nav>
+        <a href="#/" data-nav="legisladores">Legisladores</a>
+        <a href="#/votaciones" data-nav="votaciones">Votaciones</a>
+        <a href="#/ranking" data-nav="ranking">Ranking</a>
+        <a href="#/acerca" data-nav="acerca">Metodología</a>
+      </nav>
+    </div>
+  </header>
+  <main id="app" class="wrap"><p class="loading">Cargando datos…</p></main>
+  <footer class="wrap foot">
+    <p class="autor">Hecho por <a href="https://www.linkedin.com/in/lucas-gomez-data" target="_blank" rel="noopener" title="Ver perfil en LinkedIn">Lucas Gomez <span aria-hidden="true">↗</span></a>
+      · basado en <a href="https://comovoto.dev.ar" target="_blank" rel="noopener">comovoto.dev.ar</a> de Rodrigo Quiroga</p>
+    <p>Datos: <a href="https://www.legislatura.gob.ar/InfoSesion/" target="_blank" rel="noopener">Legislatura de la Ciudad de Buenos Aires</a> (votaciones nominales publicadas).
+      Código original de Rodrigo Quiroga
+      (<a href="https://github.com/rquiroga7/como_voto" target="_blank" rel="noopener">licencia MIT</a>).
+      <span id="foot-meta"></span></p>
+  </footer>
+  <div id="tip" class="tip" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>
