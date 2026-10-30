@@ -496,12 +496,27 @@
     if (tr && !e.target.closest("a")) location.hash = tr.dataset.href;
   });
 
+  // Estadísticas de visitas (GoatCounter, sin cookies). El sitio navega por #hash,
+  // así que cada sección se cuenta a mano como una página distinta.
+  let visitaPendiente = null;
+  function contarVisita(parts) {
+    const leg = parts[0] === "legislador" && S.legById[+parts[1]];
+    const visita = { path: "/" + parts.join("/"), title: leg ? leg.n : document.title };
+    if (window.goatcounter && window.goatcounter.count) window.goatcounter.count(visita);
+    else visitaPendiente = visita;
+  }
+  document.getElementById("gc")?.addEventListener("load", () => {
+    if (visitaPendiente && window.goatcounter?.count) window.goatcounter.count(visitaPendiente);
+    visitaPendiente = null;
+  });
+
   function route() {
     tip.hidden = true;
     const [path, query] = location.hash.slice(1).split("?");
     const params = new URLSearchParams(query || "");
     const parts = path.split("/").filter(Boolean);
     window.scrollTo(0, 0);
+    contarVisita(parts);
     if (parts[0] === "legislador") return viewLegislador(+parts[1]);
     if (parts[0] === "votaciones") return viewVotaciones(params);
     if (parts[0] === "votacion") return viewVotacion(+parts[1]);
