@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .venv/
 .claude/
+promo/*.mp4
+promo/frames/
