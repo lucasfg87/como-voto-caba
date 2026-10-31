@@ -38,6 +38,33 @@ p{font-size:%(p)spx;color:#c9cfdb;line-height:1.35}
 <div class="shot"><img src="data:image/png;base64,%(img)s"></div>
 </body></html>"""
 
+# Convierte el perfil en un ejemplo genérico: sin nombre, foto ni datos de nadie
+ANONIMIZAR = r"""() => {
+  const p = document.querySelector('.card.profile');
+  const av = p.querySelector('.avatar');
+  const sil = document.createElement('div');
+  sil.className = 'avatar lg';
+  sil.style.cssText = '--c:#8a93a3;overflow:hidden;align-items:end';
+  sil.innerHTML = '<svg viewBox="0 0 100 100" width="100%" height="100%"><circle cx="50" cy="38" r="19" fill="#b9c0cc"/><path d="M14 100c2-24 17-36 36-36s34 12 36 36z" fill="#b9c0cc"/></svg>';
+  av.replaceWith(sil);
+  p.querySelector('h1').textContent = 'Tu legislador/a';
+  const metas = p.querySelectorAll(':scope > div > div');
+  metas[0].innerHTML = '<span class="chip" style="--c:#8a93a3"><i></i>Coalición</span> <span class="meta">Bloque político</span>';
+  metas[1].innerHTML = 'Votaciones registradas: 2016–2026 · Mandato actual hasta 2027';
+  const [t1, t2] = document.querySelectorAll('.stack > .tiles > .tile');
+  t1.querySelector('.n').textContent = '1.248'; t1.querySelector('.s').textContent = '463 divididas';
+  t2.querySelector('.n').textContent = '94.5%'; t2.querySelector('.s').textContent = 'votó en 1.179 de 1.248';
+  t2.querySelector('.bar span').style.width = '94.5%';
+  const ej = [[82, 380, 463, 93], [31, 144, 463, 71], [64, 296, 463, 86], [57, 264, 463, 84], [18, 83, 463, 62]];
+  document.querySelectorAll('.tile.pick').forEach((t, i) => {
+    const [pc, a, tt, co] = ej[i];
+    t.querySelector('.n').textContent = pc + '%';
+    t.querySelectorAll('.s')[0].textContent = `en divididas (${a} de ${tt})`;
+    t.querySelector('.bar span').style.width = pc + '%';
+    t.querySelector('.co').innerHTML = `Coincidencia general: <b>${co}%</b>`;
+  });
+}"""
+
 FORMATOS = [
     (BASE / "miniatura.png", dict(w=1920, h=1080, gap=70, pad=110, logo=34, h1=104, p=38, url=46, shot=900)),
     (DOCS / "og.png", dict(w=1200, h=630, gap=44, pad=64, logo=22, h1=64, p=24, url=28, shot=560)),
@@ -53,6 +80,7 @@ def main() -> None:
         page.goto(f"http://127.0.0.1:{PUERTO}/#/legislador/{LEGISLADORA}")
         page.wait_for_selector(".tile.pick")
         page.wait_for_function("[...document.images].every(i => i.complete)")
+        page.evaluate(ANONIMIZAR)
         # Captura: encabezado del perfil + tarjeta de afinidad
         caja = page.evaluate("""() => {
           const a = document.querySelector('.card.profile').getBoundingClientRect();
